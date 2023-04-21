@@ -3,7 +3,7 @@
 
 - 🔭 Procurando estágio na área de TI.
 - 🎓 Estou cursando Sistemas de Informação na [UNINASSAU](https://www.uninassau.edu.br/)
-- 👯 Atualmente aprendendo Python e C++
+- 👯 Atualmente aprendendo Python, JavaScript, CSS, HTML e React
 
 ##
 
